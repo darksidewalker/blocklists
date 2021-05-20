@@ -9,3 +9,4 @@
 # Gametelemetry List
 #------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 horizon-static-np.s3.amazonaws.com
+0.0.0.0 dgpc.api.wwsga.me
