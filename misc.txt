@@ -1,5 +1,5 @@
 #------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Abuse List
+# Title: My Block List Project
 # Expires: 1 day
 # Homepage: https://github.com/darksidewalker/blocklists
 #------------------------------------[SUPPORT]-------------------------------------
